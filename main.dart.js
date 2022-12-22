@@ -60201,7 +60201,8 @@ return A.w($async$Bq,r)}}
 A.adp.prototype={
 $0(){var s=0,r=A.x(t.H),q=this,p,o,n,m
 var $async$$0=A.y(function(a,b){if(a===1)return A.u(b,r)
-while(true)switch(s){case 0:q.a.a=!0
+while(true)switch(s){case 0:A.aE("Login successful")
+q.a.a=!0
 s=2
 return A.r(A.K0(),$async$$0)
 case 2:p=b

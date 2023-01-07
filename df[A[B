@@ -1,0 +1,138 @@
+[33mcommit d128b244c6c9f9a17a598fb7948c24aa75059608[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: = <=>
+Date:   Tue Jan 3 16:13:20 2023 +0700
+
+    fix link error
+
+[33mcommit 5744262b2d16e6ac5df04b475c8ce7026e30067d[m
+Author: = <=>
+Date:   Tue Jan 3 16:01:15 2023 +0700
+
+    fix token login authentication error
+
+[33mcommit ee38b59167925f1a1d1bc3e06dde14feb5616b90[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 21:35:53 2022 +0700
+
+    update..,
+
+[33mcommit 086be881b9d2a40cb46abbd770b271abf0aee1dc[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 20:41:14 2022 +0700
+
+    update deme
+
+[33mcommit 623db0d3b1ef4dec87670c0846318c1761e6cb04[m
+Merge: e0b3834 da0cb31
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 15:01:02 2022 +0700
+
+    Merge branch 'master' of github.com:hoangankin2211/demo_clinic_management
+
+[33mcommit e0b3834158d0c914085bfca7dc54312d2a72cbce[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 15:00:16 2022 +0700
+
+    delete url strategy
+
+[33mcommit da0cb319fea8e5b2a14e242784ee3128e99b50a5[m
+Author: Hoang Truong <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:44:42 2022 +0700
+
+    Update dashboard_screen.html
+
+[33mcommit 1c482c6988b1ad08d594d806836379cd9e926f5c[m
+Author: Hoang Truong <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:42:43 2022 +0700
+
+    Update index.html
+
+[33mcommit 092c7a3a00d48c824da6d4fd21c21057944d7caa[m
+Author: Hoang Truong <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:40:04 2022 +0700
+
+    Update dashboard_screen.html
+
+[33mcommit 4b457443c5cfd10f0523315934da28a92e8d1903[m
+Author: Hoang Truong <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:37:39 2022 +0700
+
+    Create dashboard_screen.html
+
+[33mcommit 468a4bf57c30c98d966033c7df5f6ea4bfc991d9[m
+Author: Hoang Truong <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:33:55 2022 +0700
+
+    Update index.html
+
+[33mcommit d27abaa326d8e7f94ceb9aff7ff2dd6cbd3bb09a[m
+Author: Hoang Truong <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:31:19 2022 +0700
+
+    Update index.html
+
+[33mcommit efd59c60e2abac7970e94c6b1492df267fba3846[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:21:24 2022 +0700
+
+    fix 404 page error
+
+[33mcommit bc8778eeed0962fc22ac5878a1877389a6a11edc[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 14:15:54 2022 +0700
+
+    fix 404 page error
+
+[33mcommit f9c629b77b4e925cf44096182d2a97fc46e25916[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Fri Dec 23 08:16:52 2022 +0700
+
+    fix null safety error
+
+[33mcommit 117d85b46b8318f6b924512dd2369033070cc680[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 22:00:39 2022 +0700
+
+    update
+
+[33mcommit ee906a6ea66fbc85c9f279adad3d08c14ff6ad22[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 16:25:36 2022 +0700
+
+    change initial page
+
+[33mcommit 6fe03893761f3747f56ca1bbe2c37da986cdba98[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 15:00:22 2022 +0700
+
+    fix
+
+[33mcommit 16970a9f5eefd9c290da86b133be1797d4957e32[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 14:19:50 2022 +0700
+
+    change base link
+
+[33mcommit fa5f2494408b9d92cf7067bdbfa5ba3912cde64c[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 14:13:33 2022 +0700
+
+    commit
+
+[33mcommit b5f8dfc448596f461009033c18f1ea46e95eeaa1[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 12:39:45 2022 +0700
+
+    update base link
+
+[33mcommit c4f122109f0892bfc78f8f87827df2ccd90cc647[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 12:11:29 2022 +0700
+
+    update image assets error
+
+[33mcommit 47810c6c2de2ee5c656718da1009c6a6f2abc5ed[m
+Author: hoangankin2211 <73890707+hoangankin2211@users.noreply.github.com>
+Date:   Thu Dec 22 11:32:28 2022 +0700
+
+    first commit
